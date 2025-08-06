@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.pkl
+*.joblib
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output data & models
+*.log
+*.csv
+*.xlsx
+*.xls
+*.h5
+*.sav
+*.model
+*.json
+
+# Large artifacts
+/data/
+/output/
+/model/
+*.zip
+*.tar.gz
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
