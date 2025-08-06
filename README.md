@@ -4,7 +4,7 @@ This project demonstrates and compares multiple machine learning models to class
 
 ## 🔍 Objective
 
-To identify individuals at higher risk of diabetes using classification models — a concept aligned with Abacus Health Solutions' focus on proactive risk stratification to reduce healthcare costs and improve patient outcomes.
+To identify individuals at higher risk of diabetes using classification models to reduce healthcare costs and improve patient outcomes.
 
 ## 📊 Dataset
 
